@@ -42,12 +42,8 @@ CREATE TABLE `address` (
 --
 
 INSERT INTO `address` (`addressid`, `custid`, `city_id`, `address`, `state`, `pincode`, `contactno`) VALUES
-(3, 13, 8, '3rd floor, city light building, Opp. Khazana jewellers', 'Karnataka', '575003', 2147483647),
-(4, 13, 2, 'Tenkila road', 'karnataka', '589674', 2147483647),
-(5, 15, 6, '3rfd floor,\r\ncity ligh', 'Karnataka', '476512', 2147483647),
-(6, 2, 2, '3rd floor', 'karna', '121223', 2147483647),
-(7, 2, 7, 'Jamshed pur', 'Karnataka', '589674', 2147483647),
-(8, 9, 2, 'Julion Gate', 'Karnataka', '575002', 2147483647);
+(7, 2, 7, 'Gargoti', 'Maharashtra', '589674', 2147483647),
+(8, 9, 2, 'Kolhapur', 'Maharashtra', '575002', 2147483647);
 
 -- --------------------------------------------------------
 
